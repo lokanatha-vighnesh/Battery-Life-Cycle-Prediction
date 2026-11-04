@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+h5py
+openpyxl
+scikit-learn
+joblib
+torch
+torchvision
+matplotlib
+seaborn
+jupyterlab
+notebook
+ipykernel
+tqdm
+PyYAML
